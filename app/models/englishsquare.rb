@@ -1,0 +1,2 @@
+class Englishsquare < ApplicationRecord
+end
